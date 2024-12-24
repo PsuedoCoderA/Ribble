@@ -23,5 +23,5 @@ It allows users to create an account, log in, and access features like keyboard 
 * After Profile page user will be redirected to the Home page
 ![Screenshot (517)](https://github.com/user-attachments/assets/bc6b9a73-530d-4e8d-87bc-5948a645d58b)
 
-*If user already have an account he/she can login using username and password. Login page will redirect user directly to the home page.
+* If user already have an account he/she can login using username and password. Login page will redirect user directly to the home page.
 ![Screenshot (518)](https://github.com/user-attachments/assets/d5ab1c67-95c8-432f-8d25-78d3135c6fe3)
